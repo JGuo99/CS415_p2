@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Gaussian_filter
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
+https://docs.opencv.org/3.4/d2/d2c/tutorial_sobel_derivatives.html
+
+http://www.cs.cmu.edu/~16385/s17/Slides/4.0_Image_Gradients_and_Gradient_Filtering.pdf
+
+Use Unit circle for Nonsuppression
